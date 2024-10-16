@@ -712,6 +712,12 @@ header h2 {
     padding: 15px;
 }
 
+@media (max-width: 540px) {
+    .quiz-content .form-control {
+        padding: 10px;
+    }
+}
+
 .quiz-content h3 {
     color: #fff;
 }
